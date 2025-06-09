@@ -1,5 +1,17 @@
-This is for crowd tracking on UAV. 
 
+# This is for crowd tracking on UAV --DenseTrack 
+
+DenseTrack proposes a **_multiple association paradigm_**, can take full advantage of motion and appearance features.
+
+<!-- <p align="center"><img src="figs/pipeline.png" width="600"/></p> -->
+
+<!-- > [**TOPIC: A Parallel Association Paradigm for Multi-Object Tracking under Complex Motions and Diverse Scenes**](https://ieeexplore.ieee.org/document/10851814)
+>
+> Xiaoyan Cao, Yiyao Zheng, Yao Yao, Huapeng Qin, Xiaoyu Cao and Shihui Guo
+>
+> _[IEEE TIP](https://ieeexplore.ieee.org/document/10851814)_ -->
+
+   
 Using the densetrack can be divided into four steps:
    
    1.use PET to detect the position of targets
