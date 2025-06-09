@@ -12,17 +12,17 @@ DenseTrack proposes a **_multiple association paradigm_**, can take full advanta
 > _[IEEE TIP](https://ieeexplore.ieee.org/document/10851814)_ -->
 
    
-Using the densetrack can be divided into four steps:
+## Using the densetrack can be divided into four steps:
    
    1.use PET to detect the position of targets
-
+       
            # In pet-main--all you need is just putting on the right directory
            python test_nms.py  # one video sequence
-
+         
    or  
-  
+         
            python pets_dets_output.py # multiple video sequences
-    
+   
    
    2.use the position information from MPM to generate the fused position
 
