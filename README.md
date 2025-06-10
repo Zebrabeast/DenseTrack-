@@ -1,7 +1,7 @@
 
-# This is for crowd tracking on UAV --DenseTrack 
+# This is for crowd tracking on Drone -- TriMatch
 
-DenseTrack proposes a **_multiple association paradigm_**, can take full advantage of motion and appearance features.
+TriMatch proposes a **_multiple association paradigm_**, can take full advantage of motion and appearance features.
 
 <!-- <p align="center"><img src="figs/pipeline.png" width="600"/></p> -->
 
